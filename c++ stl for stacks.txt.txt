@@ -1,0 +1,39 @@
+#include <iostream>
+using namespace std;
+#include<stack>
+
+int main() {
+   
+   // creation  stack<data_type>varname;
+            /*   stack<int>st;
+                 stack<char>st1;
+                 stack<string>st2;
+            */
+            
+   // insertion
+    /*
+       st.push(13);
+    */
+   
+   // deletion
+    /*
+       st.pop(13);
+    */
+   
+   // check for empty
+    /*
+       st.empty();
+    */
+    
+    // check for size
+    /*
+       st.size();
+    */
+    
+    // get top element
+    /*
+       st.top();
+    */
+    
+    return 0;
+}
